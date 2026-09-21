@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/alikashish81/Leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/alikashish81/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/alikashish81/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
