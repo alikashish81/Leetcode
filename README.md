@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/alikashish81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0733-flood-fill](https://github.com/alikashish81/Leetcode/tree/master/0733-flood-fill) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alikashish81/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alikashish81/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/alikashish81/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/alikashish81/Leetcode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/alikashish81/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alikashish81/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/alikashish81/Leetcode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/alikashish81/Leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
